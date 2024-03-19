@@ -6,5 +6,7 @@
 3. Designed and implemented an interactive dashboard in Tableau, utilizing Snowpipe to stream data from Snowflake, providing real-time insights and visualizations of retail trends based on comprehensive datasets, including transactions, products, coupons, and demographics.
 
 4. Automated the data update process by setting up a cron job in Jupyter Lab, integrated with Amazon SQS, to trigger updates in the Tableau dashboard whenever new data is uploaded to the AWS S3 buckets, ensuring real-time data accuracy and relevance in visual analytics.
+   
+Technologies Used: Snowflake, AWS, Python, SQL, and Tableau.
 
 <img width="514" alt="desc_retail" src="https://github.com/akshayysinngh/Retail_Data_Analysis/assets/91548001/4c384444-523d-467d-944b-f6e2c2835a2d">
