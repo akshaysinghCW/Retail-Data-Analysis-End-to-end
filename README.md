@@ -1,4 +1,4 @@
-# Retail Data Analysis
+# Retail Data Analysis (End-to-end)
 1. Developed and executed an end-to-end data analysis pipeline for a retail store, leveraging AWS S3 for data storage and Snowflake for data warehousing. Utilized Python in Jupyter Notebook for data transformation and cleaning, ensuring high-quality data preparation for analysis.
 
 2. Established a robust data integration process, connecting AWS S3 buckets to Snowflake, enabling seamless data extraction and loading into Snowflake tables. Enhanced data accessibility and manipulation by creating a connection between Snowflake and a local Jupyter Notebook environment.
